@@ -1,5 +1,5 @@
 numpy==1.15.0
-Pillow==5.2.0
+Pillow==7.1.0
 PyOpenGL==3.1.1a1
 PyOpenGL-accelerate==3.1.1a1
 ftputil==3.4
